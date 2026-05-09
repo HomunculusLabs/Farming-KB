@@ -2,11 +2,12 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**972 pages**
+**970 pages**
 
 ## A
 
 - [[aeroponics-cannabis]]
+- [[alpha-beta-diversity-cannabis-root-microbiomes]]
 - [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
 - [[anandamide-and-the-endocannabinoid-system]]
 - [[ancient-cannabis-use-near-east-and-egypt]]
@@ -179,7 +180,6 @@
 - [[blesching-cannabis-viral-infections]]
 - [[blesching-cannabis-wound-care]]
 - [[blesching-caryophyllene-cb2-agonist]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[bud-rot-cannabis]]
 
 ## C
@@ -293,6 +293,7 @@
 - [[cannabis-concentrates-types]]
 - [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-copper-nutrient]]
+- [[cannabis-cultivar-effects-soil-microbiome]]
 - [[cannabis-cultivar-microbiome-specificity]]
 - [[cannabis-curing-jar-technique]]
 - [[cannabis-curing-jars]]
@@ -841,7 +842,6 @@
 - [[flowering-phase-cannabis]]
 - [[foliar-feeding]]
 - [[foliar-feeding-plants]]
-- [[four-prime-cannabinoids]]
 - [[fungus-gnats-cannabis]]
 
 ## G
@@ -1000,7 +1000,6 @@
 - [[spanish-cannabis-seed-companies]]
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - [[spider-mites-cannabis]]
-- [[stamets-phase-ii-composting]]
 - [[subjective-therapeutic-window-cannabis]]
 
 ## T
@@ -1014,10 +1013,6 @@
 - [[thrips-cannabis]]
 - [[topping-cannabis]]
 - [[training-cannabis]]
-
-## U
-
-- [[understanding-cultivar-two-tier-selection-model-cannabis-microbiome]]
 
 ## V
 

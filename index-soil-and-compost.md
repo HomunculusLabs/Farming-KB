@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**438 pages**
+**422 pages**
 
 ## A
 
@@ -62,7 +62,6 @@
 - [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]
-- [[coleman-greenhouse-soil-management]]
 - [[coleman-hotbed-manure-heat-system]]
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[coleman-soil-preparation-for-winter]]
@@ -116,7 +115,6 @@
 - [[direct-seeded-no-tillage-rice-winter-grain-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
 - [[dynamic-accumulator-bracken-fern-potash]]
-- [[dynamic-accumulator-hyperaccumulator-geobotany]]
 - [[dynamic-accumulator-phosphate-liberators]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - [[dynamic-accumulator-plants-nitrogen]]
@@ -134,9 +132,6 @@
 
 ## F
 
-- [[faires-biomass-compost-water-heating]]
-- [[faires-composting-and-vermiculture]]
-- [[faires-composting-toilets-and-humanure]]
 - [[fermented-mixed-compost-fmc]]
 - [[fertilizer-pollution-environmental-impact]]
 - [[flushing-nutrients]]
@@ -145,16 +140,9 @@
 ## G
 
 - [[gaias-garden-bringing-the-soil-to-life]]
-- [[gaias-garden-compost-worm-methods]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[gaias-garden-living-mulches-ground-covers]]
-- [[gaias-garden-mulch-plants-ecological-garden]]
-- [[gaias-garden-nutrient-accumulators-dynamic-accumulators]]
-- [[gaias-garden-rabbits-and-worm-composting]]
-- [[gaias-garden-soil-building]]
 - [[gaias-garden-soil-food-web-ecology]]
 - [[gaias-garden-soil-food-web-living-soil]]
-- [[gaias-garden-spike-roots-soil-conditioning]]
 - [[garden-location-and-soil-preparation]]
 - [[garden-myths-mulch-and-watering]]
 - [[garden-myths-soil-and-amendments]]
@@ -173,7 +161,6 @@
 
 - [[hamilton-alternative-soil-conditioners]]
 - [[hamilton-animal-manure-types-and-use]]
-- [[hamilton-compost-bins-and-containers]]
 - [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-concentrated-organic-fertilizer-products]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
@@ -330,7 +317,6 @@
 - [[nitrogen-cycle-in-soil]]
 - [[nitrogen-plant-nutrition]]
 - [[no-till-agriculture]]
-- [[no-till-direct-seeding-rice-barley]]
 - [[no-till-gardening-method]]
 - [[no-till-grain-growing]]
 - [[no-till-grain-growing-methods]]
@@ -345,7 +331,6 @@
 - [[nutrient-film-technique]]
 - [[nutrient-lockout]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[nutrient-storage-cycling-terrestrial-ecosystems]]
 
 ## O
 
@@ -459,7 +444,6 @@
 - [[solomon-soil-testing-and-interpretation-low-input]]
 - [[solomon-tilling-and-soil-aeration]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]
-- [[stamets-compost-preparation]]
 - [[stamets-compost-supplements-nitrogen-management]]
 
 ## T
