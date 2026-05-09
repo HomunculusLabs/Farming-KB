@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**976 pages**
+**979 pages**
 
 ## A
 
@@ -91,6 +91,7 @@
 - [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
 - [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
+- [[blesching-cannabis-fractured-bones-cbd-healing]]
 - [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]]
 - [[blesching-cannabis-gastrointestinal-disorders]]
 - [[blesching-cannabis-gerd]]
@@ -156,6 +157,7 @@
 - [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-rhabdomyosarcoma]]
 - [[blesching-cannabis-rheumatoid-arthritis]]
+- [[blesching-cannabis-safety-adverse-effects-evidence]]
 - [[blesching-cannabis-safety-profile]]
 - [[blesching-cannabis-sativa-indica-classification]]
 - [[blesching-cannabis-schizophrenia]]
@@ -180,6 +182,7 @@
 - [[blesching-cannabis-viral-infections]]
 - [[blesching-cannabis-wound-care]]
 - [[blesching-caryophyllene-cb2-agonist]]
+- [[blesching-molecules-emotions-endocannabinoid-bridge]]
 - [[bud-rot-cannabis]]
 
 ## C

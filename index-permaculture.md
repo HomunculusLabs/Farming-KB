@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**938 pages**
+**942 pages**
 
 ## A
 
@@ -193,6 +193,7 @@
 - [[holmgren-gigantism-intermediate-technology-and-small-scale]]
 - [[holmgren-land-systems-catchment-planning]]
 - [[holmgren-long-rotation-forestry-slow-growth]]
+- [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
 - [[holmgren-mineral-balance-soil-fertility]]
 - [[holmgren-nuclear-and-fossil-fuel-techno-optimism]]
 - [[holmgren-observe-and-interact-detailed]]
@@ -200,6 +201,9 @@
 - [[holmgren-pattern-thinking-and-pattern-language]]
 - [[holmgren-permaculture-education-training-and-pdc]]
 - [[holmgren-permaculture-flower-conceptual-framework]]
+- [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
+- [[holmgren-permaculture-twelve-design-principles-framework]]
+- [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
 - [[holmgren-renewability-versus-durability-building]]
 - [[holmgren-site-design-as-cellular-design]]
 - [[holmgren-site-design-zones-slopes-cellular]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**866 pages**
+**883 pages**
 
 ## A
 
@@ -67,9 +67,11 @@
 - [[chamovitz-plant-senses-overview]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
 - [[chelation-and-metal-binding-in-plants]]
+- [[clay-pellet-seed-ball-method-for-desert-revegetation]]
 - [[clay-pellet-seed-balling]]
 - [[clay-pellet-seed-balls]]
 - [[clay-pellet-seed-broadcasting]]
+- [[clay-pellet-seed-dispersal]]
 - [[clay-pellet-seed-encapsulation]]
 - [[clay-pellet-seeding]]
 - [[clay-pellet-seeding-technique]]
@@ -90,6 +92,7 @@
 - [[coleman-backwards-farm-experiment-winter-only]]
 - [[coleman-backwards-farm-winter-only-summer-fallow]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]
+- [[coleman-british-adoption-of-french-intensive-gardening]]
 - [[coleman-claytonia-winter-harvest-cultivation]]
 - [[coleman-cold-greenhouse-double-layer-protection]]
 - [[coleman-cold-hardiness-testing-ratings]]
@@ -202,6 +205,7 @@
 - [[drip-irrigation-guide]]
 - [[drought-gardening]]
 - [[drought-gardening-strategies]]
+- [[drought-resistant-gardening-techniques]]
 - [[drought-tolerant-planting-design]]
 - [[dry-gardening-unirrigated-vegetable-production-solomon]]
 - [[dryland-vegetable-gardening]]
@@ -459,6 +463,7 @@
 - [[integrated-pest-management]]
 - [[intensive-gardening-critique-solomon]]
 - [[intensive-planting-spacing]]
+- [[intensive-vegetable-spacing-systems]]
 - [[intercropping-systems]]
 - [[invasive-species-management]]
 - [[irrigation-systems]]
@@ -504,6 +509,7 @@
 ## L
 
 - [[landscape-fabric-alternatives]]
+- [[leaf-senescence-autumn-colour-change-active-plant-process]]
 - [[leatherjacket-pest-control]]
 - [[lemon-balm-growing-guide]]
 - [[lettuce-and-leafy-greens]]
@@ -571,6 +577,7 @@
 ## P
 
 - [[palm-tree-uses]]
+- [[parasitic-plant-host-detection-volatile-sensing]]
 - [[parsley-celery-herbs-growing-guide]]
 - [[passionflower-growing-guide]]
 - [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
@@ -590,7 +597,12 @@
 - [[permplant-tagasaste-pioneer-fodder-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
+- [[photoperiodism-in-plants]]
 - [[phototropism-and-plant-light-responses]]
+- [[phototropism-darwin-plant-light-response]]
+- [[phototropism-in-plants]]
+- [[phytochrome-photoperiodism-plant-flowering]]
+- [[phytochrome-photoperiodism-plants]]
 - [[phytochrome-red-far-red-ratio-shade-detection-plants]]
 - [[phytochrome-signaling-plant-light-perception]]
 - [[phytochromes-and-plant-light-sensing]]
@@ -640,10 +652,13 @@
 - [[plant-photoreception-and-phototropism]]
 - [[plant-photoreceptor-evolution-from-photolyases]]
 - [[plant-photoreceptors-and-mechanism-of-light-perception]]
+- [[plant-photoreceptors-light-perception]]
 - [[plant-phototropism-and-photoperiodism]]
+- [[plant-phototropism-darwin-experiments]]
 - [[plant-propagation]]
 - [[plant-propagation-methods]]
 - [[plant-propagation-techniques]]
+- [[plant-proprioception-statolith-gravitropism-mechanism]]
 - [[plant-response-to-sound-and-vibration]]
 - [[plant-science-exploring-rich-history]]
 - [[plant-sensing-communication]]
@@ -725,6 +740,7 @@
 - [[seed-balls-technique]]
 - [[seed-germination-techniques-solomon]]
 - [[seed-quality-and-selection-solomon]]
+- [[seed-saving-and-selection]]
 - [[seed-saving-and-variety-selection]]
 - [[seed-saving-methods-home-garden]]
 - [[seed-saving-principles-solomon]]
@@ -828,6 +844,7 @@
 - [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
 - [[swarm-capture-guide]]
 - [[sweet-potato-guide]]
+- [[symbiotic-rice-barley-clover-succession-cropping]]
 
 ## T
 
