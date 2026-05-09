@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**428 pages**
+**429 pages**
 
 ## A
 
@@ -436,6 +436,7 @@
 - [[solomon-green-manure-cover-crop-techniques]]
 - [[solomon-humanure-recycling-and-composting]]
 - [[solomon-manure-nutrient-variability-COF]]
+- [[solomon-manure-nutrient-variability-and-quality]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-mulching-and-cover-cropping]]
 - [[solomon-phosphorus-potassium-and-secondary-nutrients]]

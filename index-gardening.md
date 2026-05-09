@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**862 pages**
+**866 pages**
 
 ## A
 
@@ -590,8 +590,10 @@
 - [[permplant-tagasaste-pioneer-fodder-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
+- [[phototropism-and-plant-light-responses]]
 - [[phytochrome-red-far-red-ratio-shade-detection-plants]]
 - [[phytochrome-signaling-plant-light-perception]]
+- [[phytochromes-and-plant-light-sensing]]
 - [[pioneer-plants-for-land-restoration]]
 - [[plant-bioelectricity]]
 - [[plant-cell-membrane-transport-proteins]]
@@ -634,6 +636,7 @@
 - [[plant-olfaction-what-a-plant-smells]]
 - [[plant-perception]]
 - [[plant-photoreception]]
+- [[plant-photoreception-and-light-perception]]
 - [[plant-photoreception-and-phototropism]]
 - [[plant-photoreceptor-evolution-from-photolyases]]
 - [[plant-photoreceptors-and-mechanism-of-light-perception]]
@@ -802,6 +805,7 @@
 - [[solomon-sprouting-seeds-and-early-season-nutrition]]
 - [[solomon-thinning-spacing-and-direct-seeding]]
 - [[solomon-transplanting-and-hardening-off]]
+- [[solomon-vegetable-demand-classification-low-medium-high]]
 - [[solomon-vegetable-varieties-self-sufficiency]]
 - [[solomon-watering-and-dry-farming]]
 - [[solomon-weed-management-without-chemicals]]

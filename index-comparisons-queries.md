@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1145 pages**
+**1147 pages**
 
 ## A
 
@@ -348,6 +348,7 @@
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]
 - [[comparison-mulching-guide-vs-green-manure-guide]]
+- [[comparison-mullein-vs-calendula]]
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
 - [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]
@@ -987,6 +988,7 @@
 - [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
 - [[query-sog-vs-scrog-cannabis-training-methods]]
 - [[query-spore-syringes-vs-liquid-culture]]
+- [[query-what-are-biofertilizers-and-how-do-i-use-them]]
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1480 pages**
+**1486 pages**
 
 ## #
 
@@ -96,6 +96,7 @@
 - [[ayahuasca-preparation]]
 - [[ayahuasca-preparation-and-ceremony]]
 - [[ayahuasca-preparation-methods]]
+- [[ayahuasca-shamanism-economics]]
 - [[ayahuasca-sorcery-types]]
 - [[ayahuasca-tourism]]
 - [[ayahuasca-tourism-economics-commodification-peru]]
@@ -197,6 +198,7 @@
 - [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 - [[design-principle-integration]]
+- [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[dionysian-cults]]
 - [[dm-reference]]
 - [[dmmda-compound-profile]]
@@ -599,6 +601,7 @@
 - [[holzer-pig-integration]]
 - [[hplc-analysis-of-psilocybin-and-psilocin]]
 - [[hplc-analysis-of-tryptamine-alkaloids]]
+- [[hplc-analysis-psilocybin-psilocin]]
 - [[huichol-peyote-tradition]]
 - [[hybrid-shamanic-therapeutic-rituals]]
 - [[hybrid-shamanic-therapy]]
@@ -616,6 +619,7 @@
 - [[ibogaine-anti-addiction-therapy]]
 - [[ibogaine-pharmacology]]
 - [[ibogaine-reference]]
+- [[icaros-in-ayahuasca-ceremony]]
 - [[icaros-power-songs]]
 - [[icaros-shamanic-chanting]]
 - [[icaros-shamanic-power-songs]]
@@ -881,6 +885,7 @@
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 - [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-sugar-slavery-and-dominance]]
+- [[mckenna-sugar-slavery-dominator-culture-commodities]]
 - [[mckenna-sugar-spice-mercantilism]]
 - [[mckenna-suppression-psychedelic-research-lsd-therapy]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]
@@ -1158,6 +1163,7 @@
 - [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-nature-connection]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]
+- [[psilocybin-and-tryptamine-hallucinogens]]
 - [[psilocybin-as-catalyst-for-paradigm-shift]]
 - [[psilocybin-assisted-therapy]]
 - [[psilocybin-biosynthesis-pathway]]

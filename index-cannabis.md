@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**973 pages**
+**976 pages**
 
 ## A
 
@@ -254,6 +254,7 @@
 - [[cannabis-backcrossing]]
 - [[cannabis-backcrossing-breeding]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[cannabis-beta-caryophyllene-food-based-cannabinoid]]
 - [[cannabis-bipolar-research-detailed]]
 - [[cannabis-boron-nutrient]]
 - [[cannabis-botany-and-taxonomy]]
@@ -504,6 +505,7 @@
 - [[cannabis-pest-management]]
 - [[cannabis-pest-management-guide]]
 - [[cannabis-ph-management-and-soil-flushing]]
+- [[cannabis-pharmaceutical-cannabinoids-synthetic-research]]
 - [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-phenotype-selection]]
 - [[cannabis-phosphorus]]
@@ -592,6 +594,7 @@
 - [[cannabis-strain-sherpa]]
 - [[cannabis-strain-smile]]
 - [[cannabis-strain-starship]]
+- [[cannabis-subjective-therapeutic-window-dosing]]
 - [[cannabis-sulfur-nutrient]]
 - [[cannabis-super-cropping-technique]]
 - [[cannabis-tbi-research]]

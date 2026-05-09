@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2061 pages**
+**2066 pages**
 
 ## #
 
@@ -84,6 +84,7 @@
 - [[anaerobic-gut-fungi]]
 - [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
 - [[anaerobic-zoosporic-fungi]]
+- [[anemotropism-in-fungi]]
 - [[ant-termite-fungal-symbiosis]]
 - [[antifungal-secondary-metabolites-coprophilous-fungi]]
 - [[aquatic-fungi-and-ingoldian-spores]]
@@ -176,6 +177,7 @@
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 - [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - [[biodiversity-of-fungi-endophytic-fungi]]
+- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[biodiversity-of-fungi-saprobic-soil-fungi]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
@@ -218,6 +220,7 @@
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
+- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
@@ -902,6 +905,7 @@
 - [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-type-specimens]]
 - [[fungal-vaccines]]
+- [[fungal-vacuolar-system-nutrient-translocation]]
 - [[fungal-virulence-factors-host-immune-evasion]]
 - [[fungal-volatile-organic-compounds-communication]]
 - [[fungal-wood-decomposition-spatial-variation]]
@@ -1336,6 +1340,7 @@
 - [[mycelial-network-biology]]
 - [[mycelial-network-communication]]
 - [[mycelial-network-computation]]
+- [[mycelial-network-graph-theory-analysis]]
 - [[mycelial-network-nutrient-dynamics]]
 - [[mycelial-network-nutrient-transport-imaging-gadd]]
 - [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
@@ -1965,7 +1970,6 @@
 - [[stinkhorn-fungi-and-insect-spore-dispersal]]
 - [[stinkhorn-fungi-gasteromycetes]]
 - [[stinkhorn-fungi-morphology-and-ecology]]
-- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[stinkhorn-reproduction-and-spore-dispersal]]
 - [[stinkhorns-and-cage-fungi]]
 - [[straminipiles-oomycetes-fungus-like-chromists]]
@@ -2126,6 +2130,7 @@
 - [[wood-rotting-fungi-for-effluent-decolorization]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 - [[woronin-bodies-septal-pore-plugging-euascomycetes-jedd]]
+- [[woronin-bodies-septal-pore-plugging-fungal-hypha]]
 
 ## X
 

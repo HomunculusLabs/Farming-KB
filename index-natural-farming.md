@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**963 pages**
+**964 pages**
 
 ## A
 
@@ -68,6 +68,7 @@
 - [[chos-natural-farming-imo-collection-cultivation]]
 - [[clarke-marijuana-botany-trichome-biology]]
 - [[clay-ball-seed-pellets]]
+- [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]
 - [[cover-cropping-natural-farming]]
 
 ## D

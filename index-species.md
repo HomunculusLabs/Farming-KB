@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**3076 pages**
+**3093 pages**
 
 ## #
 
@@ -420,6 +420,7 @@
 - [[aspergillus-fumigatus]]
 - [[aspergillus-niger]]
 - [[aspergillus-oryzae]]
+- [[asplenium-nidus]]
 - [[asplenium-trichomanes]]
 - [[astraeus-hygrometricus]]
 - [[astragalus-membranaceus]]
@@ -530,6 +531,7 @@
 - [[botrytis-cinerea]]
 - [[bougainvillea-spectabilis]]
 - [[bouteloua-curtipendula]]
+- [[bouteloua-gracilis]]
 - [[brasenia-schreberi]]
 - [[brassica-juncea]]
 - [[brassica-napus]]
@@ -628,6 +630,7 @@
 - [[carpinus-caroliniana]]
 - [[carthamus-tinctorius]]
 - [[carum-carvi]]
+- [[carya-glabra]]
 - [[carya-illinoinensis]]
 - [[carya-ovata]]
 - [[castanea-dentata]]
@@ -645,6 +648,7 @@
 - [[caulophyllum-thalictroides]]
 - [[ceanothus-thyrsiflorus]]
 - [[cedrela-odorata]]
+- [[cedrus-atlantica]]
 - [[cedrus-libani]]
 - [[celosia-argentea]]
 - [[celtis-occidentalis]]
@@ -835,6 +839,7 @@
 - [[cornus-officinalis]]
 - [[coronaridine]]
 - [[coronilla-varia]]
+- [[cortaderia-selloana]]
 - [[cortinarius-cinnamomeus]]
 - [[cortinarius-orellanus]]
 - [[cortinarius-rubellus]]
@@ -894,6 +899,7 @@
 - [[cynara-scolymus-entity]]
 - [[cynomorium-songaricum]]
 - [[cyperus-esculentus]]
+- [[cyrtomium-falcatum]]
 - [[cystoderma-amianthinum]]
 - [[cystopteris-fragilis]]
 - [[cystoseira-tamariscifolia]]
@@ -927,8 +933,10 @@
 - [[deconica-crobula]]
 - [[delta-8-thc]]
 - [[dennis-mckenna]]
+- [[dennstaedtia-punctilobula]]
 - [[derris-indica]]
 - [[deschampsia-caespitosa]]
+- [[deschampsia-flexuosa]]
 - [[deschloroketamine]]
 - [[desfontainia-spinosa]]
 - [[desmanthus-illinoensis]]
@@ -1158,6 +1166,7 @@
 - [[fermented-plant-juice-fpj]]
 - [[ferula-drudeana]]
 - [[festuca-arundinacea]]
+- [[festuca-glauca]]
 - [[ficus-carica]]
 - [[filipendula-ulmaria]]
 - [[fire-og]]
@@ -1184,6 +1193,7 @@
 - [[fragaria-chiloensis]]
 - [[fragaria-vesca]]
 - [[fragaria-virginiana]]
+- [[fraxinus-americana]]
 - [[fraxinus-ornus]]
 - [[fraxinus-pennsylvanica]]
 - [[fucus-distichus]]
@@ -1919,6 +1929,7 @@
 - [[mucor-racemosus-entity-the-mushroom-cultivator]]
 - [[mucuna-pruriens]]
 - [[muhlenbergia-capillaris]]
+- [[muhlenbergia-rigens]]
 - [[mullein]]
 - [[murraya-koenigii]]
 - [[musa-acuminata]]
@@ -2042,6 +2053,7 @@
 - [[orthotrichum-diaphanum]]
 - [[oryza-sativa]]
 - [[osmorhiza-claytonii]]
+- [[osmunda-cinnamomea]]
 - [[osmunda-regalis]]
 - [[oudemansiella-radicata]]
 - [[oudenansiella-mucida]]
@@ -2125,6 +2137,7 @@
 - [[penicillium-expansum]]
 - [[penicillium-simplicissimum]]
 - [[penis-envy-cubensis]]
+- [[pennisetum-alpecuroides]]
 - [[pennisetum-glaucum]]
 - [[pennisetum-setaceum]]
 - [[pennywise-strain]]
@@ -2240,6 +2253,7 @@
 - [[plant-guild]]
 - [[plantago-lanceolata]]
 - [[plantago-major]]
+- [[platanus-acerifolia]]
 - [[platanus-occidentalis]]
 - [[platanus-x-hispanica]]
 - [[platinum-garlic]]
@@ -2295,6 +2309,7 @@
 - [[populus-deltoides]]
 - [[populus-fremontii]]
 - [[populus-grandidentata]]
+- [[populus-heterophylla]]
 - [[populus-nigra]]
 - [[populus-tremuloides]]
 - [[poria-cocos]]
@@ -2480,6 +2495,7 @@
 - [[quercus-garryana]]
 - [[quercus-ilex]]
 - [[quercus-macrocarpa]]
+- [[quercus-montana]]
 - [[quercus-palustris]]
 - [[quercus-petraea]]
 - [[quercus-robur]]
@@ -3115,6 +3131,7 @@
 - [[wofati]]
 - [[wolfiporia-cocos]]
 - [[wolfiporia-extensa]]
+- [[woodsia-obtusa]]
 
 ## X
 
