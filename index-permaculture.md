@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**942 pages**
+**949 pages**
 
 ## A
 
@@ -32,6 +32,7 @@
 - [[allegro-word-play-and-secret-names-in-scripture]]
 - [[apple-centered-guild-design]]
 - [[apple-guild-design-guide]]
+- [[apple-tree-guild-design-species-combinations]]
 - [[aquatic-polyculture-design-mollison]]
 - [[arid-landscape-scarp-wadi-desert-settlement]]
 
@@ -660,6 +661,7 @@
 - [[permaculture-building-design]]
 - [[permaculture-built-environment-design]]
 - [[permaculture-castor-oil-plant]]
+- [[permaculture-catch-and-store-energy]]
 - [[permaculture-cattail]]
 - [[permaculture-chicken-raising]]
 - [[permaculture-chicken-tractor-system]]
@@ -678,6 +680,7 @@
 - [[permaculture-daylily]]
 - [[permaculture-design]]
 - [[permaculture-design-course-methodology]]
+- [[permaculture-design-from-patterns-to-details]]
 - [[permaculture-design-methods]]
 - [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
@@ -730,6 +733,7 @@
 - [[permaculture-edge-effect-design]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
 - [[permaculture-energy-descent-planning]]
+- [[permaculture-ethical-principles-holmgren]]
 - [[permaculture-ethics-and-principles]]
 - [[permaculture-farm-design-principles]]
 - [[permaculture-fennel]]
@@ -758,6 +762,7 @@
 - [[permaculture-honey-locust-pod-fodder-system]]
 - [[permaculture-hops]]
 - [[permaculture-insectary-plants]]
+- [[permaculture-integrate-rather-than-segregate]]
 - [[permaculture-integrated-animal-systems]]
 - [[permaculture-interaction-of-plants-and-animals]]
 - [[permaculture-introduction-and-ethics]]
@@ -779,6 +784,7 @@
 - [[permaculture-passionfruit]]
 - [[permaculture-pasture-management]]
 - [[permaculture-pattern-literacy]]
+- [[permaculture-pattern-understanding-design-process]]
 - [[permaculture-patterns-in-nature]]
 - [[permaculture-paulownia]]
 - [[permaculture-pawpaw]]
@@ -844,6 +850,7 @@
 - [[permaculture-sheep-raising]]
 - [[permaculture-sheet-mulch-detailed-guide]]
 - [[permaculture-site-analysis]]
+- [[permaculture-site-analysis-mollison]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-small-and-slow-solutions]]

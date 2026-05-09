@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**437 pages**
+**455 pages**
 
 ## A
 
@@ -68,6 +68,7 @@
 - [[coleman-cover-crop-rotation-and-soil-health]]
 - [[coleman-french-maraicher-manure-system-and-compost-quality]]
 - [[coleman-hotbed-manure-heat-system]]
+- [[coleman-soil-block-transplant-system]]
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[coleman-soil-preparation-for-winter]]
 - [[coleman-summer-fallow-green-manure-greenhouse]]
@@ -141,6 +142,7 @@
 
 - [[fermented-mixed-compost-fmc]]
 - [[fertilizer-pollution-environmental-impact]]
+- [[flocculation-and-natural-subsoil-loosening-solomon]]
 - [[flushing-nutrients]]
 - [[foliar-pest-deterrence-aact-mechanisms]]
 
@@ -200,6 +202,7 @@
 - [[ingham-aact-disease-suppression-through-food-competition]]
 - [[ingham-aact-field-guide-index]]
 - [[ingham-aact-testing-methods]]
+- [[ingham-aact-vs-anaerobic-brews-mechanisms-benefits]]
 - [[ingham-anaerobic-organisms-role-soil]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-antibiotics-osmotic-shock-compost-tea]]
@@ -223,17 +226,20 @@
 - [[ingham-field-guide-compost-tea-microscope-analysis]]
 - [[ingham-field-guide-overview]]
 - [[ingham-field-guide-soil-food-web-assessment]]
+- [[ingham-foliar-applications-compost-tea-disease-suppression]]
 - [[ingham-foliar-compost-tea-application]]
 - [[ingham-foliar-pest-deterrence-aact]]
 - [[ingham-food-safety-compost-tea]]
 - [[ingham-inorganic-fertilizers-soil-biology-damage]]
 - [[ingham-light-uv-effects-compost-tea]]
+- [[ingham-manure-antibiotics-chemical-residues-composting]]
 - [[ingham-microscope-identification-soil-biology]]
 - [[ingham-moss-algae-control]]
 - [[ingham-natural-growth-regulators-soil-microbes]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[ingham-pest-management-aact]]
 - [[ingham-protozoa-nutrient-cycling]]
+- [[ingham-protozoa-soil-food-web-nutrient-cycling]]
 - [[ingham-root-disease-treatment]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 - [[ingham-soil-drench-dilution-rates]]
@@ -242,6 +248,7 @@
 - [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
 - [[ingham-spray-nozzles-equipment-compost-tea]]
 - [[ingham-streptococcus-dairy-soil-disease]]
+- [[ingham-thermal-compost-process-standards]]
 - [[ingham-thermal-compost-versus-worm-compost]]
 - [[ingham-thermal-worm-compost-comparison]]
 - [[ingham-turf-lawn-compost-tea-programs]]
@@ -271,6 +278,7 @@
 
 - [[lactic-acid-bacteria-lab]]
 - [[leaf-mold-composting]]
+- [[ley-farming-soil-rebuilding-solomon]]
 - [[liquid-fertilizer-from-weeds]]
 - [[living-mulch-systems-guide]]
 - [[low-input-composting-methods]]
@@ -358,6 +366,7 @@
 - [[phosphate-and-potassium-accumulators]]
 - [[phosphorus-availability]]
 - [[phosphorus-plant-nutrition]]
+- [[plant-available-nitrogen-ammonium-nitrate]]
 - [[plant-macronutrient-functions]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
 - [[plant-micronutrient-functions]]
@@ -368,6 +377,7 @@
 - [[plant-nutrient-uptake]]
 - [[plant-nutrient-uptake-mechanisms]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
+- [[potassium-in-plant-nutrition]]
 - [[potassium-plant-nutrition]]
 - [[potassium-role-in-plants]]
 - [[protozoa-in-soil]]
@@ -412,6 +422,7 @@
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-structure]]
 - [[soil-foodweb-balancing-protocol-ingham]]
+- [[soil-foodweb-biological-balancing-protocol-ingham]]
 - [[soil-foodweb-biology]]
 - [[soil-foodweb-biology-balance]]
 - [[soil-foodweb-biology-overview]]
@@ -426,8 +437,12 @@
 - [[soil-ph-management]]
 - [[soil-ph-management-for-vegetable-gardens]]
 - [[soil-preparation-organic-gardens]]
+- [[soil-protozoa-ecology-trophic-interactions]]
+- [[soil-protozoa-nutrient-cycling-and-mineralization]]
+- [[soil-protozoa-nutrient-cycling-mineralization]]
 - [[soil-respiration]]
 - [[soil-self-enrichment]]
+- [[soil-temperature-plant-growth-rate-doubling-rule]]
 - [[soil-testing]]
 - [[soil-testing-and-analysis]]
 - [[soil-testing-and-interpretation]]
@@ -435,6 +450,7 @@
 - [[solomon-buckwheat-summer-cover-crop-guide]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-clay-soil-management-and-remediation]]
+- [[solomon-complete-organic-fertilizer-cof-recipe]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-compost-organic-matter]]
 - [[solomon-composting-methods]]
@@ -443,8 +459,9 @@
 - [[solomon-garden-ley-rotation-soil-restoration]]
 - [[solomon-green-manure-cover-crop-techniques]]
 - [[solomon-humanure-recycling-and-composting]]
-- [[solomon-manure-nutrient-variability-COF]]
+- [[solomon-low-grade-compost-making-methods]]
 - [[solomon-manure-nutrient-variability-and-quality]]
+- [[solomon-manure-nutrient-variability-cof]]
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-mulching-and-cover-cropping]]
 - [[solomon-phosphorus-potassium-and-secondary-nutrients]]
@@ -491,6 +508,7 @@
 
 ## V
 
+- [[vegetable-nutrient-demand-categories-solomon]]
 - [[vegetable-nutrient-demand-levels]]
 - [[vegetable-weed-control-and-mulching]]
 - [[vermicompost-tea]]
@@ -506,6 +524,3 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
-- [[soil-temperature-plant-growth-rate-doubling-rule]]
-- [[sterilized-casing-soil-recipe-peat-vermiculite-limestone]]
-- [[soil-foodweb-biological-balancing-protocol-ingham]]

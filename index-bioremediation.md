@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**65 pages**
+**66 pages**
 
 ## A
 
@@ -82,6 +82,7 @@
 - [[phytostabilization]]
 - [[phytovolatilization]]
 - [[pioneer-species-for-land-reclamation]]
+- [[plow-pan-formation-and-remediation]]
 - [[pulp-paper-effluent-treatment]]
 
 ## R
@@ -113,4 +114,3 @@
 ## W
 
 - [[wetland-ecology]]
-- [[plow-pan-formation-and-remediation]]

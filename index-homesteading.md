@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**210 pages**
+**212 pages**
 
 ## A
 
@@ -85,6 +85,7 @@
 - [[goat-husbandry-detailed-guide]]
 - [[goat-keeping]]
 - [[goat-keeping-guide]]
+- [[golden-goat-sativa-strain-profile]]
 - [[goose-keeping]]
 - [[goose-keeping-detailed]]
 - [[goose-keeping-guide]]
@@ -273,6 +274,7 @@
 
 - [[water-bath-canning-guide]]
 - [[wicking-bed-construction]]
+- [[wicking-bed-materials-construction-variants]]
 - [[wildfire-preparedness-guide]]
 - [[wind-power-basics]]
 - [[winter-storm-preparedness]]
